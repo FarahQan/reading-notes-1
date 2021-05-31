@@ -26,7 +26,5 @@ its a place to publish and share source codes as a website or web application wi
 1- Formating Words using Markup Language
 
 ```markdown
-if (isAwesome){
-  return true
-}
+**Bold Text Example**
 ```
