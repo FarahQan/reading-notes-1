@@ -82,7 +82,7 @@ First Cloumn | Second Cloumn
 Element 1    | Element 2
 Element 3    | Element 4
 ___
-4- Creating a Task Liste using Flavoured Markup language
+4- Creating a Task List using Flavoured Markup language
 ```markdown
 - [x] Do The Read: 01 Task
 - [ ] Do The Read: 02 Task
