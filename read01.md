@@ -1,7 +1,7 @@
 # The Markdown Language
 this is a summary for learning about Markdown Language, enjoy reading with a Coffee Cup..
 
-## * Dictionary of Project
+## Dictionary of Project
   - Defintition od Markdown Language
   - Defintition of Flavoured Markdown Language
   - Defintition of GitHub Website
