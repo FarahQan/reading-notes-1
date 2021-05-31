@@ -96,7 +96,7 @@ this is how its looks:
 - [ ] Do The Lab : 01b Task
 ___
 
-5- ADdding Picture Markup language
+5- Adding Picture Markup language
 ```markdown
 ![Example](Link)
 ```
