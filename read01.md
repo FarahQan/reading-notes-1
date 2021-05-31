@@ -63,7 +63,7 @@ this is how its looks:
   - unorderd list element 1 
   - unorderd list element 2 
   - unorderd list element 3 
- * Numberd list
+* Numberd list
   1- orderd list element 1
   2- orderd list element 2
   3- orderd list element 3
