@@ -53,21 +53,21 @@ ___
   - unorderd list element 2 
   - unorderd list element 3 
  * Orderd list
-  1- orderd list element 1
-  2- orderd list element 2
-  3- orderd list element 3
-  4- orderd list element 3
+  1. orderd list element 1
+  2. orderd list element 2
+  3. orderd list element 3
+  4. orderd list element 3
 ```
 this is how its looks:
 * Unordered List
   - unorderd list element 1 
   - unorderd list element 2 
   - unorderd list element 3 
-
-  1- orderd list element 1
-  2- orderd list element 2
-  3- orderd list element 3
-  4- orderd list element 3
+* Orderd list
+  1. orderd list element 1
+  2. orderd list element 2
+  3. orderd list element 3
+  4. orderd list element 3
 ___
 ```markdown
 3- Creating a table using Flavoured Markup language
