@@ -95,3 +95,5 @@ this is how its looks:
 - [ ] Do The Lab : 01a Task
 - [ ] Do The Lab : 01b Task
 ___
+4- ADdding Picture Markup language
+![Drag Racing](Dragster.jpg)
