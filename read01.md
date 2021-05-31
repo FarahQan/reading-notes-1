@@ -40,7 +40,11 @@ ___
 ~~Italic Text Example~~
 **_Mixed Text Example_**
 ```
-
+this is how its looks:
+**Bold Text Example**
+~~Italic Text Example~~
+**_Mixed Text Example_**
+___
 2- Creating List using Markup Language
 
 ```markdown
@@ -65,6 +69,7 @@ this is how its looks:
   3- orderd list element 3
   3- orderd list element 3
 ```markdown
+___
 3- Creating a table using Flavoured Markup language
 First Cloumn | Second Cloumn
 ------------ | -------------
@@ -76,7 +81,7 @@ First Cloumn | Second Cloumn
 ------------ | -------------
 Element 1    | Element 2
 Element 3    | Element 4
-
+___
 4- Creating a Task Liste using Flavoured Markup language
 ```markdown
 - [x] Do The Read: 01 Task
