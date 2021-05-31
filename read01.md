@@ -96,10 +96,12 @@ this is how its looks:
 - [ ] Do The Lab : 01b Task
 ___
 
-4- ADdding Picture Markup language
+5- ADdding Picture Markup language
 ```markdown
-![Example](https://upload.wikimedia.org/wikipedia/commons/0/0a/Red_Silhouette_-_Brain.svg)
+![Example](Link)
 ```
 this is how its looks:
-![Example](Link)
+
+![Drag Racing](https://upload.wikimedia.org/wikipedia/commons/0/0a/Red_Silhouette_-_Brain.svg)
+
 ___
