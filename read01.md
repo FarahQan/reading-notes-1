@@ -49,3 +49,10 @@ First Cloumn | Second Cloumn
 Element 1    | Element 2
 Element 3    | Element 4
 
+4- Creating a Task Liste using Flavoured Markup language
+
+- [x] Do The Read: 01 Task
+- [ ] Do The Read: 02 Task
+- [ ] Do The Lab : 01a Task
+- [ ] Do The Lab : 01b Task
+
