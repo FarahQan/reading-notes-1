@@ -1,1 +1,2 @@
-# Project of Lesson 02 Project
+# Code 102
+## Lesson 02 Project
