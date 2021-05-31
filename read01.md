@@ -29,7 +29,7 @@ its a place to publish and share source codes as a website or web application wi
 
 ___
 
-## * Examples
+## Examples
 
 1- Formating Words using Markup Language
 
