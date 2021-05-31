@@ -38,10 +38,10 @@ ___
 _Italic Text Example_
 **_Mixed Text Example_**
 ```
-this is how its looks:
+this is how its looks:\
 **Bold Text Example** \
 _Italic Text Example_ \
-**_Mixed Text Example_** \
+**_Mixed Text Example_** 
 
 ___
 
