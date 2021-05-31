@@ -27,4 +27,6 @@ its a place to publish and share source codes as a website or web application wi
 
 ```markdown
 **Bold Text Example**
+~~Italic Text Example~~
+**~~Mixed Text Example~~**
 ```
