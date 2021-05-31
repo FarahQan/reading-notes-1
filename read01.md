@@ -30,3 +30,22 @@ its a place to publish and share source codes as a website or web application wi
 ~~Italic Text Example~~
 **_Mixed Text Example_**
 ```
+
+2- Creating List using Markup Language
+
+```markdown
+* Unordered List
+  - unorderd list element 1 
+  - unorderd list element 2 
+  - unorderd list element 3 
+ * Numberd list
+ 1- orderd list element 1
+ 2- orderd list element 2
+ 3- orderd list element 3
+```
+3- Creating a table using Flavoured Markup language
+First Cloumn | Second Cloumn
+------------ | -------------
+Element 1    | Element 2
+Element 3    | Element 4
+
