@@ -1,5 +1,9 @@
+___
+
 # **_Growth MINDSET_**
 ![Growth Mindset](https://get.pxhere.com/photo/mindset-idea-man-think-laying-brain-icon-mind-thinking-brainstorming-brain-logo-brain-power-brain-neurons-pink-cartoon-text-art-fictional-character-illustration-font-human-body-organ-hand-graphic-design-graphics-finger-clip-art-human-behavior-computer-wallpaper-visual-arts-1441549.jpg)
+
+___
 
 ## **The Meaning of Growth Mindset**
 
@@ -9,6 +13,8 @@ its the ability of thinking and improving skills in every situatuin that you mee
 In the words of  Robert Heinlein's:
 
 > There ain't no such thing as a free lunch
+
+___
 
 ## How i remind my self to be a growth Mindset ?
 
