@@ -54,6 +54,16 @@ ___
   3- orderd list element 3
   3- orderd list element 3
 ```
+this is how its looks:
+* Unordered List
+  - unorderd list element 1 
+  - unorderd list element 2 
+  - unorderd list element 3 
+ * Numberd list
+  1- orderd list element 1
+  2- orderd list element 2
+  3- orderd list element 3
+  3- orderd list element 3
 ```markdown
 3- Creating a table using Flavoured Markup language
 First Cloumn | Second Cloumn
@@ -61,6 +71,12 @@ First Cloumn | Second Cloumn
 Element 1    | Element 2
 Element 3    | Element 4
 ```
+this is how its looks:
+First Cloumn | Second Cloumn
+------------ | -------------
+Element 1    | Element 2
+Element 3    | Element 4
+
 4- Creating a Task Liste using Flavoured Markup language
 ```markdown
 - [x] Do The Read: 01 Task
@@ -68,4 +84,9 @@ Element 3    | Element 4
 - [ ] Do The Lab : 01a Task
 - [ ] Do The Lab : 01b Task
 ```
+this is how its looks:
+- [x] Do The Read: 01 Task
+- [ ] Do The Read: 02 Task
+- [ ] Do The Lab : 01a Task
+- [ ] Do The Lab : 01b Task
 ___
