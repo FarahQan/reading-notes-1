@@ -1,7 +1,16 @@
 # The Markdown Language
 this is a summary for learning about Markdown Language, enjoy reading with a Coffee Cup..
+
+## * Dictionary of Project
+  - Defintition od Markdown Language
+  - Defintition of Flavoured Markdown Language
+  - Defintition of GitHub Website
+  - Examples about Mar
+ 
+
+
 ___
-## Definition of Markup language
+## Definition of Markdown language
 its a way to style text on a web consist of a regular text with a few of non alphabetic characters throw in.
 
 * Features of markup language
@@ -43,18 +52,20 @@ ___
   1- orderd list element 1
   2- orderd list element 2
   3- orderd list element 3
+  3- orderd list element 3
 ```
+```markdown
 3- Creating a table using Flavoured Markup language
 First Cloumn | Second Cloumn
 ------------ | -------------
 Element 1    | Element 2
 Element 3    | Element 4
-
+```
 4- Creating a Task Liste using Flavoured Markup language
-
+```markdown
 - [x] Do The Read: 01 Task
 - [ ] Do The Read: 02 Task
 - [ ] Do The Lab : 01a Task
 - [ ] Do The Lab : 01b Task
-
+```
 ___
