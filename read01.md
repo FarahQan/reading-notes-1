@@ -89,9 +89,9 @@ ___
 4- Creating a Task List using Flavoured Markup language
 ```markdown
 - [x] Do The Read: 01 Task
-- [ ] Do The Read: 02 Task
-- [ ] Do The Lab : 01a Task
-- [ ] Do The Lab : 01b Task
+- [x] Do The Read: 02 Task
+- [x] Do The Lab : 01a Task
+- [x] Do The Lab : 01b Task
 ```
 
 this is how its looks:
