@@ -37,12 +37,12 @@ ___
 
 ```markdown
 **Bold Text Example**
-~~Italic Text Example~~
+_Italic Text Example_
 **_Mixed Text Example_**
 ```
 this is how its looks:
 **Bold Text Example**
-~~Italic Text Example~~
+_Italic Text Example_
 **_Mixed Text Example_**
 ___
 2- Creating List using Markup Language
@@ -56,7 +56,6 @@ ___
   1. orderd list element 1
   2. orderd list element 2
   3. orderd list element 3
-  4. orderd list element 3
 ```
 this is how its looks:
 * Unordered List
@@ -67,8 +66,8 @@ this is how its looks:
   1. orderd list element 1
   2. orderd list element 2
   3. orderd list element 3
-  4. orderd list element 3
 ___
+
 ```markdown
 3- Creating a table using Flavoured Markup language
 First Cloumn | Second Cloumn
@@ -91,9 +90,9 @@ ___
 ```
 this is how its looks:
 - [x] Do The Read: 01 Task
-- [ ] Do The Read: 02 Task
-- [ ] Do The Lab : 01a Task
-- [ ] Do The Lab : 01b Task
+- [x] Do The Read: 02 Task
+- [x] Do The Lab : 01a Task
+- [x] Do The Lab : 01b Task
 ___
 
 5- Adding Picture Markup language
