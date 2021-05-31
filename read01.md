@@ -72,17 +72,18 @@ ___
 
 3- Creating a table using Flavoured Markup language
 ```markdown
-First Cloumn | Second Cloumn
------------- | -------------
-Element 1    | Element 2
-Element 3    | Element 4
+| First Cloumn  | Second Cloumn |
+| ------------- | ------------- |
+| Element 1     | Element 2     |
+| Element 3     | Element 4     |
+
 ```
 
 this is how its looks:
-First Cloumn | Second Cloumn
------------- | -------------
-Element 1    | Element 2
-Element 3    | Element 4
+| First Cloumn  | Second Cloumn |
+| ------------- | ------------- |
+| Element 1     | Element 2     |
+| Element 3     | Element 4     |
 
 ___
 
