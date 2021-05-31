@@ -95,5 +95,11 @@ this is how its looks:
 - [ ] Do The Lab : 01a Task
 - [ ] Do The Lab : 01b Task
 ___
+
 4- ADdding Picture Markup language
-![Drag Racing](Dragster.jpg)
+```markdown
+![Example](https://upload.wikimedia.org/wikipedia/commons/0/0a/Red_Silhouette_-_Brain.svg)
+```
+this is how its looks:
+![Example](Link)
+___
