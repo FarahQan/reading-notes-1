@@ -1,4 +1,4 @@
 # Code 102
 ## Lesson 02 Project
 
-Not Bold in comparsion with **Bold Example** and --strikethrow--
+Not Bold in comparsion with **Bold Example** and ~~strikethrow~~
