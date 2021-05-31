@@ -40,9 +40,9 @@ ___
   - unorderd list element 2 
   - unorderd list element 3 
  * Numberd list
- 1- orderd list element 1
- 2- orderd list element 2
- 3- orderd list element 3
+  1- orderd list element 1
+  2- orderd list element 2
+  3- orderd list element 3
 ```
 3- Creating a table using Flavoured Markup language
 First Cloumn | Second Cloumn
