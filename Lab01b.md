@@ -1,4 +1,4 @@
-#**__Growth MINDSET__**
+# **__Growth MINDSET__**
 ![Growth Mindset](https://get.pxhere.com/photo/mindset-idea-man-think-laying-brain-icon-mind-thinking-brainstorming-brain-logo-brain-power-brain-neurons-pink-cartoon-text-art-fictional-character-illustration-font-human-body-organ-hand-graphic-design-graphics-finger-clip-art-human-behavior-computer-wallpaper-visual-arts-1441549.jpg)
 
 ## **The Meaning of Growth Mindset**
