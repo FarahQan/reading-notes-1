@@ -1,4 +1,5 @@
 this page will contain a summary about how we structure a webpage with some of parts will be described as following.
+
 # WireFrame
   * What is Wire frame?
   * What is the purpose of WireFrame?
@@ -14,6 +15,7 @@ this page will contain a summary about how we structure a webpage with some of p
   * What is Semantics in HTML/CSS/JAVASCRIPT?
 
 Lets Begin answer..
+
 ___
 
 ## The WireFrame : 
@@ -22,17 +24,17 @@ ___
 
 * it help the designer to plan how everything is laidout on the screen before get in bogged down in degsign and provide a basic artifact that can be tested with users to confirm or denay diffrent design choices.
 
-* types of wireframe are..
+* Types of wireframe are..
   - Physical Hand-Drawn sketch
   - Digital WireFrame
 
-* any design process depending on project itself as follwing:
+* Any design process depending on project itself as follwing:
   - Wire Frame >> interface prototype >> Visual >> Design
   - Sketch >> Code 
   - Sketch >> WireFrame >> HI-DEF WireFrame >> Visual >> Design
   - Sketch >> WireFrame >> Visual >> Code
 
-* the steps of WireFrame making is:
+* The steps of WireFrame making is:
   - Do a research
   - Prepare a research for a quiq refrance
   - Make Sure your user flow mapped out.
@@ -47,6 +49,7 @@ ___
   - UXPin
   - InVison
   - Wireframe.cc
+
 ___
 
 ## The HTML Basics :
