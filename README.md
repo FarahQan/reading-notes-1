@@ -11,4 +11,4 @@ thank you for ASAC for this Great opportunity which make new chances to meet gre
 | 1.  | [Growth Mindset way of Thinking](https://jehadabuawwad.github.io/reading-notes/Lab01b)  |
 | 2.  | [Markdown language](https://jehadabuawwad.github.io/reading-notes/read01)  |
 | 3.  | [Git and Github](https://jehadabuawwad.github.io/reading-notes/read02)  |
-| 4.  | [Structure Webpage wi HTML](https://jehadabuawwad.github.io/reading-notes/read03)  |
+| 4.  | [Structure Webpage with HTML](https://jehadabuawwad.github.io/reading-notes/read03)  |
