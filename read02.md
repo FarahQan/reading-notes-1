@@ -26,7 +26,7 @@ It's DVCS when you commit repo it takes a snapshot of data used for  local opera
     git clone https://github.com/test 
   ```
   
-  ## The A-P-C Process
+## The A-P-C Process
   
   * **Add** :  these repository files
   
@@ -46,7 +46,7 @@ It's DVCS when you commit repo it takes a snapshot of data used for  local opera
     git push origin master
   ```
  
-  ## Fetch and Merge Process
+## Fetch and Merge Process
   
   **Pull** : Pull changes and merge the new changes
   
