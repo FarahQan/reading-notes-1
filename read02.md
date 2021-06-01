@@ -21,6 +21,7 @@ Version Control is a system that allows you to revisit various versions of a fil
   its DVCS when you commit repo it takes a snapshot of data used for  local operations and save from lost of data and files in it can reside in three main states: committed, modified and staged.
 
 # Commands of Git
+  
   * **Status** :To determine the state of files
   ```markdown
   git status
@@ -29,24 +30,33 @@ Version Control is a system that allows you to revisit various versions of a fil
   * **Clone**: you have a copy of all versions of all files for a project and used for a single time
   
   ```markdown
-  git clone https://github.com/test 
+    git clone https://github.com/test 
   ```
+  
   ## The A-P-C Process
+  
   * **Add** :  these repository files
+  
   ```markdown
-  git add .
+    git add .
   ```
+  
   *  **Commit** : Update changes.
+
   ```markdown
-  git commit -m “any message here”
+    git commit -m “any message here”
   ```
+  
   * **Push** : push changes to a remote repository.
-   ```markdown
-  git push origin master
+  
+  ```markdown
+    git push origin master
   ```
  
   ## Fetch and Merge Process
+  
   **Pull** : Pull changes and merge the new changes
+  
   ```markdown
-  git pull
+    git pull
   ```
