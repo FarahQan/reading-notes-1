@@ -6,25 +6,27 @@ Version Control is a system that allows you to revisit various versions of a fil
 # Types of Version Control
 
 1. **Local Version Control:**   
- database on your hard disk that stores changes to files.
 
- 
+Database on your hard disk that stores changes to files.
+
 2. **Centralized Version Control** 
 
- This system entails a single server storing all changes and file versions, which can be accessed by various clients.
+This system entails a single server storing all changes and file versions, which can be accessed by various clients.
 
 3. **Distributed Version Control**
 
-  DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information.
+DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information.
 
 # Definition of Git
-  its DVCS when you commit repo it takes a snapshot of data used for  local operations and save from lost of data and files in it can reside in three main states: committed, modified and staged.
+
+It's DVCS when you commit repo it takes a snapshot of data used for  local operations and save from lost of data and files in it can reside in three main states: committed, modified and staged.
 
 # Commands of Git
   
   * **Status** :To determine the state of files
+  
   ```markdown
-  git status
+    git status
   ```
   
   * **Clone**: you have a copy of all versions of all files for a project and used for a single time
