@@ -18,10 +18,14 @@ ___
 
 ## How i remind my self to be a growth Mindset ?
 
-- [x] Be painet because there is no free launch in programming , I should practise daily and be creative in finding solutions.
+- [x] When I face a challange Embraces it and don't avoid it also for facing the Obstacles Persists it and don't lose focus
 
-- [x] Google is my friend on the joureny so if i want to deal in problems without supervising i can ask him what i want
+- [x] Be painet and do effort because there is no free launch in programming , I should practise daily and be creative in finding solutions because of no pain, no gain
 
-- [x] Respect others effort and suggestions and take care of soft skills with them.
+- [x] Respect others effort and suggestions when you face a criticism
+ and take care of soft skills with them.
+
+- [x] finally deal with sucess of others with inspiring by that helps you to achieve more goals
+
 
 
