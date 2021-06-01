@@ -4,18 +4,9 @@ ___
 Version Control is a system that allows you to revisit various versions of a file or set of files by recording changes or in another way its a flow control of project
 
 # Types of Version Control
-
-1. **Local Version Control:**   
-
-Database on your hard disk that stores changes to files.
-
-2. **Centralized Version Control** 
-
-This system entails a single server storing all changes and file versions, which can be accessed by various clients.
-
-3. **Distributed Version Control**
-
-DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information.
+1. **Local Version Control:** Database on your hard disk that stores changes to files.
+2. **Centralized Version Control:** This system entails a single server storing all changes and file versions, which can be accessed by various clients.
+3. **Distributed Version Control:** DVCS allows clients to create mirrored repositories. These data backups can be easily be placed on the server to replace any lost information.
 
 # Definition of Git
 
