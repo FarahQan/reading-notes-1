@@ -8,9 +8,9 @@ its lightweight intepreted compiled programmming language with first class funct
 ___
 # What do we mean with first class functions ?
 
--[x] functions can be passed as an argument to other functions.
--[x] functions can be returned by another functions.
--[x] functions can be assigend as a value of variables.
+- [x] functions can be passed as an argument to other functions.
+- [x] functions can be returned by another functions.
+- [x] functions can be assigend as a value of variables.
 
 ___
 # Another features of JS ?
