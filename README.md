@@ -13,3 +13,5 @@ thank you for ASAC for this Great opportunity which make new chances to meet gre
 | 3.  | [Git and Github](https://jehadabuawwad.github.io/reading-notes/read02)  |
 | 4.  | [Structure Webpage with HTML](https://jehadabuawwad.github.io/reading-notes/read03)  |
 | 5.  | [Dynamic Webpage with JAVASCRIPT](https://jehadabuawwad.github.io/reading-notes/read04)  |
+| 6.  | [Operations an loops](https://jehadabuawwad.github.io/reading-notes/read05)  |
+| 7.  | [Design web pages with CSS](https://jehadabuawwad.github.io/reading-notes/read06)  |
