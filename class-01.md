@@ -11,7 +11,7 @@
 - What are the parts of any HTML page.
 - How we can learn HTML.
     
-                                The begining of Part One 
+                                The beginning of Part One 
     
 * ### What the HTML pages are :
 
@@ -69,7 +69,7 @@ ___
 - What is the meta Element. 
 - Finally What are the Escape Carecters.
 
-                            The begining of Part Tow 
+                            The beginning of Part Tow 
 
 * ### What the **versions** of HTML are :
     - XHTML 1.0
@@ -166,7 +166,7 @@ Layouts and HTML5 Layout.
 - How we Help Old Browsers Understand the page.
     
 
-                                The begining of Part Three 
+                                The beginning of Part Three 
 
 * ### What the main difference between Traditional HTML Layouts and HTML5 Layout is: 
 
@@ -206,11 +206,11 @@ ___
 ## 4. The ABC of Programming
 in this part we will discuss the following points
 
-                                The begining of Part Four 
 - What is the script and how do i create one.
 - How do computers fit in with the world arround them.
 - How do i write a script for a web page
-                                The begining of Part Four 
+
+                                The beginning of Part Four 
 
 ![Tux, the Linux mascot](https://jehadabuawwad.github.io/reading-notes/class-01-photos/1-a.png)
 ![Tux, the Linux mascot](https://jehadabuawwad.github.io/reading-notes/class-01-photos/1-b.png)
