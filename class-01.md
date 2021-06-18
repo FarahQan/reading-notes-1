@@ -98,9 +98,9 @@ ___
 
 * ### The types of elements depeding on how they appear are :
 
-    ####  **Block Elements** : always appear to start on a new line in the browser window.
+    - **Block Elements** : always appear to start on a new line in the browser window.
 
-    ####  **Inline Elements** : always appear to continue on the same line as their neighbouring elements.
+    - **Inline Elements** : always appear to continue on the same line as their neighbouring elements.
 
 * ### What **div** and **span** Grouping Text & Elements In a Block are : 
     
