@@ -103,9 +103,11 @@ ___
     ####  **Inline Elements** : always appear to continue on the same line as their neighbouring elements.
 
 * ### What **div** and **span** Grouping Text & Elements In a Block are : 
-
+    
+    <br>
+    
     #### **div element** : The div element allows you to group a set of elements together in one block-level box.
-
+    
     #### **span element** : The span element acts like an inline equivalent of the div element. 
     
     </br>
