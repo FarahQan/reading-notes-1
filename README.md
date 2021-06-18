@@ -6,7 +6,7 @@ thank you for ASAC for this Great opportunity which make new chances to meet gre
 
 # Table of Contents
 
-<br></br>
+<br>
 
 ## Code 101 / Code 102 Topics
 |  Topic Number  | Article Title |
@@ -22,7 +22,7 @@ thank you for ASAC for this Great opportunity which make new chances to meet gre
 
 ___
 
-<br></br>
+<br>
 
 ## Code 201 Topics
 |  Class Number  | Article Title |
@@ -31,4 +31,4 @@ ___
 
 ___
 
-<br></br>
+<br>
