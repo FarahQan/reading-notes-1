@@ -6,6 +6,8 @@ thank you for ASAC for this Great opportunity which make new chances to meet gre
 
 # Table of Contents
 
+<br></br>
+
 ## Code 101 / Code 102 Topics
 |  Topic Number  | Article Title |
 | ------------- | ------------- |
@@ -20,8 +22,13 @@ thank you for ASAC for this Great opportunity which make new chances to meet gre
 
 ___
 
+<br></br>
+
 ## Code 201 Topics
 |  Class Number  | Article Title |
 | ------------- | ------------- |
 | 1.  | [Introductory HTML and JavaScript](https://jehadabuawwad.github.io/reading-notes/class-01)  |
 
+___
+
+<br></br>
