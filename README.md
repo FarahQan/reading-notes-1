@@ -18,7 +18,7 @@ thank you for ASAC for this Great opportunity which make new chances to meet gre
 | 5.  | [Dynamic Webpage with JAVASCRIPT](https://jehadabuawwad.github.io/reading-notes/read04)  |
 | 6.  | [Operations an loops](https://jehadabuawwad.github.io/reading-notes/read05)  |
 | 7.  | [Design web pages with CSS](https://jehadabuawwad.github.io/reading-notes/read06)  |
-| 8.  | [Programming with JS](https://jehadabuawwad.github.io/reading-notes/read07)  
+| 8.  | [Programming with JS](https://jehadabuawwad.github.io/reading-notes/read07) | 
 
 ___
 
