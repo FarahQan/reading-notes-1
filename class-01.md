@@ -53,6 +53,7 @@
     To learn HTML you need to know what tags are available for you to use, what they do, and where they can go.
             
                                 The End of Part One
+
 ___
 
 ## 2. Extra information about Markup
@@ -70,23 +71,23 @@ ___
 
                             The begining of Part Tow 
 
-* ## What the **versions** of HTML are :
+* ### What the **versions** of HTML are :
     - XHTML 1.0
     - HTML 4
     - HTML 5
-* ## The **DOCTYPE** element is :
+* ### The **DOCTYPE** element is :
 
     a special element to determine the version of HTML that the browser will use usually the browsers read html pages as HTML 4 by default but as the best practice the defention of html version is necessary.
-* ## How we write a **comment** in th HTML is as the following:
+* ### How we write a **comment** in th HTML is as the following:
     between a tow angle brackets with tow dash inside of it we put a comment with Exclamation mark after the left angle mark
 
 
-* ## What The **ID** and **Class** attribute is :
+* ### What The **ID** and **Class** attribute is :
     
-    ### **ID attribute** : an attribute can be carried by any HTML element used to uniquely identify that element from other elements on the page.
+    #### **ID attribute** : an attribute can be carried by any HTML element used to uniquely identify that element from other elements on the page.
     </br>
     
-    ### **Class attribute** : an attribute to identify several elements with same design and it can be carried by any elemnet.
+    #### **Class attribute** : an attribute to identify several elements with same design and it can be carried by any elemnet.
     
     </br>
 
@@ -95,17 +96,17 @@ ___
     number or any other character).
         - It is important that no two elements on the same page have the same value for their id attributes
 
-* ## The types of elements depeding on how they appear are :
+* ### The types of elements depeding on how they appear are :
 
-    ###  **Block Elements** : always appear to start on a new line in the browser window.
+    ####  **Block Elements** : always appear to start on a new line in the browser window.
 
-    ###  **Inline Elements** : always appear to continue on the same line as their neighbouring elements.
+    ####  **Inline Elements** : always appear to continue on the same line as their neighbouring elements.
 
-* ## What **div** and **span** Grouping Text & Elements In a Block are : 
+* ### What **div** and **span** Grouping Text & Elements In a Block are : 
 
-    ### **div element** : The div element allows you to group a set of elements together in one block-level box.
+    #### **div element** : The div element allows you to group a set of elements together in one block-level box.
 
-    ### **span element** : The span element acts like an inline equivalent of the div element. 
+    #### **span element** : The span element acts like an inline equivalent of the div element. 
     
     </br>
     
@@ -115,7 +116,7 @@ ___
     
     <br>
 
-* ## What **iframe** element is :
+* ### What **iframe** element is :
 
     An iframe is like a little window that has been cut into your page — and in that window you can see another page and The term iframe is an abbreviation of inlineframe.
 
@@ -128,7 +129,7 @@ ___
         - frameborder : indicates whether the frame should have a border or not.
         - seamless : can be applied to an iframe where scrollbars are not desired
 
-* ## What The **meta** element is : 
+* ### What The **meta** element is : 
     The <meta> element lives inside the head element and contains information about that web page,It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time sensitive.
 
     - **meta attributes are :** 
@@ -147,11 +148,12 @@ ___
         - expires : Because browsers often cache the content of a page, the expires option can be used to indicate when the page should expire (and no longer be cached).
     - The values of the **content** attribute are anything related to the name value for every element.
 
-* ## What The **Escape Cahecters** are : 
+* ### What The **Escape Cahecters** are : 
     Escape characters are used to include special characters in your pages such as <, >, and ©.
 
                                  The End of Part Tow
 
+___
 
 ## 3. HTML5 Layout 
 
@@ -166,11 +168,11 @@ Layouts and HTML5 Layout.
 
                                 The begining of Part Three 
 
-* ## What the main difference between Traditional HTML Layouts and HTML5 Layout is: 
+* ### What the main difference between Traditional HTML Layouts and HTML5 Layout is: 
 
 the new HTML5 is more semantic and has a special purpose tags makes debugging and writing code easier. 
 
-* ## The 8 elements of New Layout are :
+* ### The 8 elements of New Layout are :
 
 
     - Headers & Footers: header and footer tag are the main header or footer that appears at the top or bottom of every page on the site.
@@ -189,13 +191,30 @@ the new HTML5 is more semantic and has a special purpose tags makes debugging an
 
     - Div Element :the <div> element will remain an important way to group together related elements
 
-* ##  Linking Around Block-Level Elements is :
+* ###  Linking Around Block-Level Elements is :
   
     Block-Level Elements HTML5 allows web page authors to place an (a) element around a block level element that contains child elements. This allows you to turn an entire block into a link.
 
-* ## we Help Old Browsers Understand the page :
+* ### we Help Old Browsers Understand the page :
 
     Older browsers that do not know the new HTML5 elements will automatically treat them as inline elements. Therefore, to help older browsers, you should include the line of CSS on the left which states which new elements should be rendered asblock-level elements.
                                  
                                  The End of Part Three
 
+___                                 
+
+## 4. The ABC of Programming
+in this part we will discuss the following points
+
+- What is the script and how do i create one.
+- How do computers fit in with the world arround them.
+- How do i write a script for a web page
+                                The begining of Part Four 
+
+![Tux, the Linux mascot](https://jehadabuawwad.github.io/reading-notes/class-01-photos/1-a.png)
+![Tux, the Linux mascot](https://jehadabuawwad.github.io/reading-notes/class-01-photos/1-b.png)
+![Tux, the Linux mascot](https://jehadabuawwad.github.io/reading-notes/class-01-photos/1-c.png)
+
+                                The End of Part Four
+
+___                            

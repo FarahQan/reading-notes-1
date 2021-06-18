@@ -18,8 +18,10 @@ thank you for ASAC for this Great opportunity which make new chances to meet gre
 | 7.  | [Design web pages with CSS](https://jehadabuawwad.github.io/reading-notes/read06)  |
 | 8.  | [Programming with JS](https://jehadabuawwad.github.io/reading-notes/read07)  
 
+___
 
 ## Code 201 Topics
 |  Class Number  | Article Title |
 | ------------- | ------------- |
 | 1.  | [Introductory HTML and JavaScript](https://jehadabuawwad.github.io/reading-notes/class-01)  |
+
