@@ -8,10 +8,7 @@ Artificial Intelligence.. so i would like to imporove my coding skills by this c
 thank you for ASAC for this Great opportunity which make new chances to meet great people.
 
 
->*Robert Heinlein's 1966 Says:*
-<br>
->  There ain't no such thing as a free lunch 
-<br>
+>Robert Heinlein's 1966 Says: *There ain't no such thing as a free lunch* 
 ___
 
 # **Table of Contents**
