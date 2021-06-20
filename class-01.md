@@ -212,9 +212,9 @@ in this part we will discuss the following points
 
                                 The beginning of Part Four 
 
-![Tux, the Linux mascot](https://jehadabuawwad.github.io/reading-notes/class-01-photos/1-a.png)
-![Tux, the Linux mascot](https://jehadabuawwad.github.io/reading-notes/class-01-photos/1-b.png)
-![Tux, the Linux mascot](https://jehadabuawwad.github.io/reading-notes/class-01-photos/1-c.png)
+![Tux, the Linux mascot](https://jehadabuawwad.github.io/images/reading-notes/class-01-photos/1-a.png)
+![Tux, the Linux mascot](https://jehadabuawwad.github.io/images/reading-notes/class-01-photos/1-b.png)
+![Tux, the Linux mascot](https://jehadabuawwad.github.io/images/reading-notes/class-01-photos/1-c.png)
 
                                 The End of Part Four
 
