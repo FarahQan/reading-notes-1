@@ -147,7 +147,7 @@ every element is a perant and has its child when you apply a styling to the pera
 
 <br>
 
-## 2. Basic JavaScript Instructions
+## 3. Basic JavaScript Instructions
                                 
 
     in this part we will discuss the following points
@@ -192,7 +192,7 @@ every element is a perant and has its child when you apply a styling to the pera
         - Expressions rely on operators to calculate a value.
 
 
-## 3. Decisions and Loops
+## 4. Decisions and Loops
 
     in this part we will discuss the following points
 
