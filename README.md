@@ -22,14 +22,14 @@ ___
 
 | Topic Number       | Article Title     | 
 | :----------------  | :---------------- | 
-|  1. | [Growth Mindset way of Thinking](https://jehadabuawwad.github.io/reading-notes/Lab01b)   |
-|  2. | [Markdown language](https://jehadabuawwad.github.io/reading-notes/read01)                 |
+|  1. | [Growth Mindset way of Thinking](https://jehadabuawwad.github.io/reading-notes/Code101-102/Lab01b)   |
+|  2. | [Markdown language](https://jehadabuawwad.github.io/reading-notes/Code101-102/read01)                 |
 | 3.  | [Git and Github](https://jehadabuawwad.github.io/reading-notes/read02)                 |
-| 4.  | [Structure Webpage with HTML](https://jehadabuawwad.github.io/reading-notes/read03)   |
-| 5.  | [Dynamic Webpage with JAVASCRIPT](https://jehadabuawwad.github.io/reading-notes/read04)   |
-| 6.  | [Operations an loops](https://jehadabuawwad.github.io/reading-notes/read05)                 |
+| 4.  | [Structure Webpage with HTML](https://jehadabuawwad.github.io/reading-notes/Code101-102/read03)   |
+| 5.  | [Dynamic Webpage with JAVASCRIPT](https://jehadabuawwad.github.io/reading-notes/Code101-102/read04)   |
+| 6.  | [Operations an loops](https://jehadabuawwad.github.io/reading-notes/Code101-102/read05)                 |
 | 7.  | [Design web pages with CSS](https://jehadabuawwad.github.io/reading-notes/read06)   |
-| 8.  | [Programming with JS](https://jehadabuawwad.github.io/reading-notes/read07)                 |
+| 8.  | [Programming with JS](https://jehadabuawwad.github.io/reading-notes/Code101-102/read07)                 |
 
 ___
 
@@ -37,7 +37,7 @@ ___
 
 | Class Number       | Class Title     | 
 | :----------------  | :---------------- | 
-| 1.  | [Introductory HTML and JavaScript](https://jehadabuawwad.github.io/reading-notes/class-01)  |
+| 1.  | [Introductory HTML and JavaScript](https://jehadabuawwad.github.io/reading-notes/Code201/class-01)  |
 
 
 
