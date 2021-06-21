@@ -42,7 +42,7 @@
         - Attributes Value : the value of information inside tow qoutation marks.
 
 
-* ### Whate the parts of any HTML page are :
+* ### What the parts of any HTML page are :
     any html page consist of four main elements which are the following:
     - html element : the part which tells the browser what is the type of document will be written by.
     - body element : the part which will be shown in browser with all elements inside.
@@ -212,9 +212,9 @@ in this part we will discuss the following points
 
                                 The beginning of Part Four 
 
-![Tux, the Linux mascot](https://jehadabuawwad.github.io/images/reading-notes/class-01-photos/1-a.png)
-![Tux, the Linux mascot](https://jehadabuawwad.github.io/images/reading-notes/class-01-photos/1-b.png)
-![Tux, the Linux mascot](https://jehadabuawwad.github.io/images/reading-notes/class-01-photos/1-c.png)
+![The ABC of Programming](https://jehadabuawwad.github.io/images/reading-notes/class-01-photos/1-a.png)
+![The ABC of Programming](https://jehadabuawwad.github.io/images/reading-notes/class-01-photos/1-b.png)
+![The ABC of Programming](https://jehadabuawwad.github.io/images/reading-notes/class-01-photos/1-c.png)
 
                                 The End of Part Four
 
