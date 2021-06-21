@@ -112,7 +112,7 @@ we use :
                            
                            The beginning of Part Three 
 
-![Review : Basic JavaScript Instructions ](https://jehadabuawwad.github.io/images/reading-notes/class-03-photos/1.png) 
+![Review : Basic JavaScript Instructions ](https://jehadabuawwad.github.io/images/reading-notes/images/class-03-photos/1.png) 
                            
                                The End of Part Three
 
@@ -123,7 +123,7 @@ we use :
                            The beginning of Part Four 
                             
                             
-![Review : Decisions and Loopss ](https://jehadabuawwad.github.io/images/reading-notes/class-03-photos/1.png)                             
+![Review : Decisions and Loopss ](https://jehadabuawwad.github.io/images/reading-notes/images/class-03-photos/1.png)                             
                             
                             
                               The End of Part Four
