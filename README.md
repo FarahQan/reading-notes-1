@@ -40,7 +40,8 @@ ___
 | 1.  | [Introductory HTML and JavaScript](https://jehadabuawwad.github.io/reading-notes/Code201/class-01)  |
 | 2.  | [Basics of HTML, CSS & JS](https://jehadabuawwad.github.io/reading-notes/Code201/class-02)  |
 | 3.  | [HTML Lists, Control Flow with JS, and the CSS Box Model](https://jehadabuawwad.github.io/reading-notes/Code201/class-03)  |
-| 3.  | [HTML Links, JS Functions, and Intro to CSS Layout](https://jehadabuawwad.github.io/reading-notes/Code201/class-04)  |
+| 4.  | [HTML Links, JS Functions, and Intro to CSS Layout](https://jehadabuawwad.github.io/reading-notes/Code201/class-04)  |
+| 5.  | [HTML Images; CSS Color & Text](https://jehadabuawwad.github.io/reading-notes/Code201/class-05)  |
 
 
 
