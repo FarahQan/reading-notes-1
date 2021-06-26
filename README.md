@@ -42,6 +42,8 @@ ___
 | 3.  | [HTML Lists, Control Flow with JS, and the CSS Box Model](https://jehadabuawwad.github.io/reading-notes/Code201/class-03)  |
 | 4.  | [HTML Links, JS Functions, and Intro to CSS Layout](https://jehadabuawwad.github.io/reading-notes/Code201/class-04)  |
 | 5.  | [HTML Images; CSS Color & Text](https://jehadabuawwad.github.io/reading-notes/Code201/class-05)  |
+| 6.  | [ JS Object Literals; The DOM](https://jehadabuawwad.github.io/reading-notes/Code201/class-06)  |
+
 
 
 
