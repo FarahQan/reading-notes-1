@@ -274,3 +274,42 @@ when they have visited a link.
 
                            The End of Part Three
 
+
+## 4. Dealing with Branches
+                            The beginning of Part Six 
+Dealing with branches :
+#### 1- You will go to this repo: https://github.com/LTUC/amman-201d32-lab5
+#### 2- Fork it
+#### 3- Clone it on your machine (from Code green button, copy the link)
+#### 4- In Ubuntu, git clone the-link-you-copied
+#### 5- You are now in the main branch, you can see Repo-Name[main]$, inside square brackets you have the branch name and here you have the main branch
+#### 6- type git checkout -b problem1 to create a new branch for problem 1
+#### 7- code .
+#### 8- Solve problem 1
+#### 9- Go live (Open live server)
+#### 10- Right click
+#### 11- Inspect
+#### 12- Go to Console tab
+#### 13- Check if the test passed or not, if not go back to the code and solve it, if yes go to step 14
+#### 14- Go to your terminal (Ubuntu) and do A-C-P (add, commit, push)
+(when you do git push, you will do it on the branch name that is inside the square brackets
+git push origin problem1 )
+#### 15- Go to to your repo on GitHub and you will see a message "Compare & pull request", click on it (If you didn't find the message, go to Pull Requests and click on New pull request)
+#### 16- Make sure that Head and Base are your repo NOT LTUC's repo, also make sure that the branches are from problem1 branch to main branch (base: main  compare:problem1)
+#### Head: Your repo   base:main   <-  Base: Your repo   compare:problem1
+#### 17- Merge pull request
+#### 18- When you go back to the main branch on GitHub you will see it's updated and has the solution of problem 1
+#### 19- Go back to Ubuntu
+#### 20- type git checkout main (to go back to the main branch)
+#### 21- type git pull origin main (to get the new changes that are done on the main which are solving problem 1 and merging it to the main)
+#### 22- Now type git checkout -b problem2 to create a new branch for problem 2
+#### 23- Do the rest of the steps as mentioned before (starting from 8 )
+#### ...
+#### 24- Now after you're done with all of the problems
+#### 25- Go to Pull requests in GitHub and click on New pull request
+#### 26- NOW PAY A GOOD ATTENTION
+#### Here you will have the merging like this
+#### Base: LTUC repo  base:main   <-  Head: Your repo   compare:main
+#### 27- Click on Create a pull request
+#### 28- You will NOT be able to merge in this steps
+#### 29- Copy the URL (link that is in the above) and submit it to Canvas
