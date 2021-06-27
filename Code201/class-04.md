@@ -187,32 +187,56 @@ the  pair programming process started by decideing which part is the Navigator
 
 **Dina** is the **Driver**
 
-                            
+<br/>     
+
                             The beginning of Part Five 
 # Dina's side:
+
 #### 1- Jehad will create the repo on GitHub (she's the owner of the repo) and send me the link of her repo (She can add in the README that she's the navigator and I'm the driver)
+
 #### 2- I will go to Jehad's repo on GitHub and fork it (Click on Fork)
+
 #### 3- I will now have a version of her repo in my GitHub repositories
+
 #### 4- I will open it, and click on code button and copy the link
+
 #### 5- I will go to Ubuntu and clone (git clone) the repo
+
 #### 6- I will open VSCode and Ashjan will tell me what to add/update/delete in code, I will also add in the README that I'm the driver and Ashjan is the navigator
+
 #### 7- After finishing the code, I will do A-C-P (add, commit, push)
+
 #### 8- I will go back to my GitHub and open the forked repo (You might see a message that says Create a pull request, click on it and go to step 10/ if not, go to step 9)
+
 #### 9- I will go to Pull Request
+
 #### 10- I will click on New pull request  (compare: main  base:main)
+
 #### 11- I will create a pull request (this pull request will go from my main to Jehad's main) --> Head Repository: My repo  ___ Base Repository: Jehad's repo
+
 #### 12- (I will find the title already added, I can change it for example: "changes made by Dina", and add a description)
+
 #### 13- I will click on Create a pull request
+
 #### 14- I will copy the URL (link) above and save it in a note: I was the driver on this (link)Jehad's side:
+
+<br/>
 
 # Jehad's side:
 #### 1- She will go to her GitHub and open the repo
+
 #### 2- She will click on Pull Requests
+
 #### 3- She will open the pull request that is sent from me ("changes made by Dina")
+
 #### 4- She will click on Merge pull request
+
 #### 5- She will click on Confirm Merge
+
 #### 6- She will copy the URL (link) and save it in a note: I was the navigator on this (link)
+
 #### 7- When she goes back to her code, she should first do on Ubuntu: git pull to take the new changes I made on the repo
 
+<br/>
 
                             The End of Part Five

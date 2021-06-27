@@ -291,9 +291,7 @@ Dealing with branches :
 #### 11- Inspect
 #### 12- Go to Console tab
 #### 13- Check if the test passed or not, if not go back to the code and solve it, if yes go to step 14
-#### 14- Go to your terminal (Ubuntu) and do A-C-P (add, commit, push)
-(when you do git push, you will do it on the branch name that is inside the square brackets
-git push origin problem1 )
+#### 14- Go to your terminal (Ubuntu) and do A-C-P (add, commit, push) (when you do git push, you will do it on the branch name that is inside the square brackets git push origin problem1 )
 #### 15- Go to to your repo on GitHub and you will see a message "Compare & pull request", click on it (If you didn't find the message, go to Pull Requests and click on New pull request)
 #### 16- Make sure that Head and Base are your repo NOT LTUC's repo, also make sure that the branches are from problem1 branch to main branch (base: main  compare:problem1)
 #### Head: Your repo   base:main   <-  Base: Your repo   compare:problem1
