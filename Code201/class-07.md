@@ -101,18 +101,16 @@ console.log(corgiFail);
 </table>
 
 ```
-X X A table is drawn out row by row. Each row is created
-with the <tr> element.
-X X Inside each row there are a number of cells
-represented by the <td> element (or <th> if it is a
-header).
-X X You can make cells of a table span more than one row
-or column using the rowspan and colspan attributes.
-X X For long tables you can split the table into a <thead> ,
-<tbody> , and <tfoot> .
 
 
+<br/>
+    
+                               The End of Part Tow
+### 3 Functions, Methods, and Objects:
+                           
+                           The beginning of Part Three 
 
+![ Functions, Methods, and Objects](https://jehadabuawwad.github.io/reading-notes/images/class-07-photos/1.png)
 
 <br/>
     
