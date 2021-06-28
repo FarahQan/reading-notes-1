@@ -44,7 +44,7 @@ ___
 | 5.  | [HTML Images; CSS Color & Text](https://jehadabuawwad.github.io/reading-notes/Code201/class-05)  |
 | 6.  | [ JS Object Literals; The DOM](https://jehadabuawwad.github.io/reading-notes/Code201/class-06)  |
 | 7.  | [Object-Oriented Programming, HTML Tables](https://jehadabuawwad.github.io/reading-notes/Code201/class-07)  |\
-| 8.  | [HTML Layout](https://jehadabuawwad.github.io/reading-notes/Code201/class-07)  |
+| 8.  | [HTML Layout](https://jehadabuawwad.github.io/reading-notes/Code201/class-08)  |
 
 
 
