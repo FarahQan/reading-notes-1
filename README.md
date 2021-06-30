@@ -46,6 +46,8 @@ ___
 | 7.  | [Object-Oriented Programming, HTML Tables](https://jehadabuawwad.github.io/reading-notes/Code201/class-07)  |\
 | 8.  | [HTML Layout](https://jehadabuawwad.github.io/reading-notes/Code201/class-08)  |
 | 9.  | [Forms and JS Events](https://jehadabuawwad.github.io/reading-notes/Code201/class-09)  |
+| 10.  | [Debugging](https://jehadabuawwad.github.io/reading-notes/Code201/class-10)  |
+
 
 
 
