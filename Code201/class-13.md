@@ -53,4 +53,4 @@ if (window.addEventListener) {
 
 <br/>
 
-                           The beginning of Part One
+                           The end of Part One
