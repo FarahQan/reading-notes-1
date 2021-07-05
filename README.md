@@ -49,6 +49,7 @@ ___
 | 10.  | [Debugging](https://jehadabuawwad.github.io/reading-notes/Code201/class-10)  |
 | 11.  | [Audio, Video, Images](https://jehadabuawwad.github.io/reading-notes/Code201/class-11)  |
 | 12.  | [Chart.js API and Canvas API](https://jehadabuawwad.github.io/reading-notes/Code201/class-12)  |
+| 13.  | [The Local Storage for Web Applications](https://jehadabuawwad.github.io/reading-notes/Code201/class-13)  |
 
 
 
