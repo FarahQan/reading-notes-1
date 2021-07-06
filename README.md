@@ -50,6 +50,9 @@ ___
 | 11.  | [Audio, Video, Images](https://jehadabuawwad.github.io/reading-notes/Code201/class-11)  |
 | 12.  | [Chart.js API and Canvas API](https://jehadabuawwad.github.io/reading-notes/Code201/class-12)  |
 | 13.  | [The Local Storage for Web Applications](https://jehadabuawwad.github.io/reading-notes/Code201/class-13)  |
+| 14.  | [CSS Transforms, Transitions,Animations and How to Build the Perfect Team](https://jehadabuawwad.github.io/reading-notes/Code201/class-14)  |
+
+
 
 
 
