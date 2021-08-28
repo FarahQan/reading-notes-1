@@ -65,7 +65,7 @@ Code 301 - Intermediate Software Development
 
 | Class Number       | Class Title     | 
 | :----------------  | :---------------- | 
-| 1.  | [Startup](https://google.com)  |
+| 1.  | [Introduction to React and Components](https://jehadabuawwad.github.io/reading-notes/Code301/class-01)  |
 
 
 ___
