@@ -53,7 +53,7 @@ def : A component is a modular, portable, replaceable, and reusable set of well-
     
                                The End of Part One
 
-## 2. Component-Based Architecture:
+## 2. What is Props and How to Use it in React:
 
         in this part we will discuss the following points
 

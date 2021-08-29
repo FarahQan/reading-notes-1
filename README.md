@@ -66,6 +66,7 @@ Code 301 - Intermediate Software Development
 | Class Number       | Class Title     | 
 | :----------------  | :---------------- | 
 | 1.  | [Introduction to React and Components](https://jehadabuawwad.github.io/reading-notes/Code301/class-01)  |
+| 2.  | [State and Props](https://jehadabuawwad.github.io/reading-notes/Code301/class-02)  |
 
 
 ___
