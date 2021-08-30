@@ -1,9 +1,11 @@
-## 1. 
-
+## 1.  lists and keys:
         in this part we will discuss the following points
 
 
-* 
+* What does .map() return?
+* If I want to loop through an array and display each value in JSX, how do I do that in React?
+* 1.3: Each list item needs a unique
+* What is the purpose of a key?
 
 <br/>
 
@@ -38,7 +40,10 @@ Keys help React identify which items have changed, are added, or are removed
         in this part we will discuss the following points
 
 
-* 
+* What is the spread operator? 
+* List 4 things that the spread operator can do.
+* Give an example of using the spread operator to combine two arrays.
+* Give an example of using the spread operator to combine two objects into one
 
 <br/>
 
@@ -46,9 +51,13 @@ Keys help React identify which items have changed, are added, or are removed
 
 ### 2.1: What is the spread operator? 
 Spread operator allows an iterable to expand in places where 0+ arguments are expected.
+
 ### 2.2: List 4 things that the spread operator can do.
+
 ### 2.3:Give an example of using the spread operator to combine two arrays.
+
 ### 2.4: Give an example of using the spread operator to add a new item to an array.
+
 ### 2.5: Give an example of using the spread operator to combine two objects into one
 <br/>
 
