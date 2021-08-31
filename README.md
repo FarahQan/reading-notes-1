@@ -68,4 +68,6 @@ Code 301 - Intermediate Software Development
 | 1.  | [Introduction to React and Components](https://jehadabuawwad.github.io/reading-notes/Code301/class-01)  |
 | 2.  | [State and Props](https://jehadabuawwad.github.io/reading-notes/Code301/class-02)  |
 | 3.  | [Passing Functions as Props](https://jehadabuawwad.github.io/reading-notes/Code301/class-03)  |
+| 4.  | [React and Forms](https://jehadabuawwad.github.io/reading-notes/Code301/class-04)  |
+
 

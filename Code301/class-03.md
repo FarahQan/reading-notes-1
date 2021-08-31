@@ -90,6 +90,6 @@ by passing it as a probes and we can call it anywhere in child component.
 
     
                                The End of Part Three
-How to Pass Functions Between Components
+
 
 
