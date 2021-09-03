@@ -93,3 +93,6 @@ by passing it as a probes and we can call it anywhere in child component.
 
 
 
+<br>
+
+<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>

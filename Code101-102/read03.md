@@ -74,3 +74,7 @@ ___
   - CSS : what the configuration that lead this element to appear like this shape or color etc..
   - HTML : what is the specifications to configure this element?
   and its more than 100 element. 
+
+<br>
+
+<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>

@@ -111,3 +111,7 @@ specification as well as browser-specific events.
 <br/>
     
                                The End of Part Three
+
+<br>
+
+<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>

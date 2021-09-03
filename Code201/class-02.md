@@ -229,3 +229,8 @@ every element is a perant and has its child when you apply a styling to the pera
     do ... while. Each repeats a set of statements.
 
                              The End of Part Four 
+
+
+<br>
+
+<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>

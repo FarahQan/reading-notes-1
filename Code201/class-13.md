@@ -54,3 +54,7 @@ if (window.addEventListener) {
 <br/>
 
                            The end of Part One
+
+<br>
+
+<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>

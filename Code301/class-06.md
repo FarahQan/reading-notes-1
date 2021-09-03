@@ -128,3 +128,7 @@ Greater efficiency when the pair is stuck, both programmers can research the pro
 
     
                                The End of Part Tow
+
+<br>
+
+<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
