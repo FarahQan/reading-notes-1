@@ -1,14 +1,19 @@
 
-![Logo](https://jehadabuawwad.github.io/reading-notes/images/LOGO.png)
-
-Welcome , My Name is Jehad Abu Awwad and I live in amman .
-I love coding so this is my main job these days , since 1 year and more i started my journey in coding by involving in AI bootcamp and finally i gained the American Canadian Board in
-Artificial Intelligence.. so I would like to improve my coding skills by this course in order to integrate python programs that i write in real end user web applications.
-
-thank you for ASAC for this Great opportunity which make new chances to meet great people.
+<p align="center">
+  <img width="600" height="300" src="https://jehadabuawwad.github.io/reading-notes/images/LOGO.png">
+</p>
 
 
->Robert Heinlein's 1966 Says: *There ain't no such thing as a free lunch* 
+
+Hello , This is Jehad Abu Awwad Greeting you and you are now in the heaven of coding and web development  
+
+I am approved Certified in the Information Technology fields like Artificial Intelligence and Web Development with Mechatronics Enginnering Background.
+
+This Repositary is containing the main concepts of Web Development Intensive Course with Levels I gained the learning journy in LTUC ASAC.
+
+Luminus Technical University College - Abdul Aziz Al Ghurair School of Advanced Computing
+
+> Robert Heinlein's 1966 Says: *There ain't no such thing as a free lunch* 
 
 <br>
 
@@ -18,7 +23,7 @@ ___
 
 <br>
 
-## Code 102 - Intro to Software Development
+## **Code 102 - Intro to Software Development**
 
 | Topic Number       | Article Title     | 
 | :----------------  | :---------------- | 
@@ -33,7 +38,7 @@ ___
 
 ___
 
-## Code 201 - Foundations of Software Development
+## **Code 201 - Foundations of Software Development**
 
 | Class Number       | Class Title     | 
 | :----------------  | :---------------- | 
@@ -50,18 +55,9 @@ ___
 | 11.  | [Audio, Video, Images](https://jehadabuawwad.github.io/reading-notes/Code201/class-11)  |
 | 12.  | [Chart.js API and Canvas API](https://jehadabuawwad.github.io/reading-notes/Code201/class-12)  |
 | 13.  | [The Local Storage for Web Applications](https://jehadabuawwad.github.io/reading-notes/Code201/class-13)  |
-| 14.  | [CSS Transforms, Transitions,Animations and How to Build the Perfect Team](https://jehadabuawwad.github.io/reading-notes/Code201/class-14)  |
+| 14.  | [CSS Transforms, Transitions, Animations and How to Build the Perfect Team](https://jehadabuawwad.github.io/reading-notes/Code201/class-14)  |
 
-
-
-
-
-
-
-Code 301 - Intermediate Software Development
-
-
-
+## **Code 301 - Intermediate Software Development**
 
 | Class Number       | Class Title     | 
 | :----------------  | :---------------- | 
@@ -69,8 +65,5 @@ Code 301 - Intermediate Software Development
 | 2.  | [State and Props](https://jehadabuawwad.github.io/reading-notes/Code301/class-02)  |
 | 3.  | [Passing Functions as Props](https://jehadabuawwad.github.io/reading-notes/Code301/class-03)  |
 | 4.  | [React and Forms](https://jehadabuawwad.github.io/reading-notes/Code301/class-04)  |
-| 4.  | [Putting it all together](https://jehadabuawwad.github.io/reading-notes/Code301/class-05)  |
-
-
-
-
+| 5.  | [Putting it all together](https://jehadabuawwad.github.io/reading-notes/Code301/class-05)  |
+| 6.  | [NODE. JS](https://jehadabuawwad.github.io/reading-notes/Code301/class-06)  |
