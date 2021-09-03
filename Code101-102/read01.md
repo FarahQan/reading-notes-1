@@ -118,6 +118,6 @@ this is how its looks:
 ![Drag Racing](https://upload.wikimedia.org/wikipedia/commons/0/0a/Red_Silhouette_-_Brain.svg)
 
 
-<br>
+<hr>
 
-<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
+# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)

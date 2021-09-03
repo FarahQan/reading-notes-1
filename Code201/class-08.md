@@ -50,6 +50,6 @@ to group together sections of a page.
 
                            The End of Part One
 
-<br>
+<hr>
 
-<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
+# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)

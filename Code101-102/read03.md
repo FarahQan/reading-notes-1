@@ -75,6 +75,6 @@ ___
   - HTML : what is the specifications to configure this element?
   and its more than 100 element. 
 
-<br>
+<hr>
 
-<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
+# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)

@@ -54,6 +54,6 @@ It's DVCS when you commit repo it takes a snapshot of data used for  local opera
     git pull
   ```
 
-<br>
+<hr>
 
-<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
+# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)

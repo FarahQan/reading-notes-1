@@ -96,6 +96,6 @@ Logically, components are just like JavaScript functions. They accept random inp
 * https://www.w3schools.com/react/react_props.asp
 * https://www.knowledgehut.com/blog/web-development/what-is-react-props 
 
-<br>
+<hr>
 
-<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
+# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)

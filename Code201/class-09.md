@@ -112,6 +112,6 @@ specification as well as browser-specific events.
     
                                The End of Part Three
 
-<br>
+<hr>
 
-<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
+# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)

@@ -246,11 +246,6 @@ Fatima is the Driver :female-technologist::skin-tone-2:
 
                             The End of Part Five
 
-<br>
+<hr>
 
-<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
-
-
-<br>
-
-<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
+# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)

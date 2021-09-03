@@ -72,6 +72,6 @@ in this example we colored h1 elemant and changed its size into 15px:
     ```
 
 
-<br>
+<hr>
 
-<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
+# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)

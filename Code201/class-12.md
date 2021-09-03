@@ -158,6 +158,6 @@ JavaScript plugin that uses HTML5’s canvas element to draw the graph onto the 
 </html>
 ```
 
-<br>
+<hr>
 
-<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
+# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)

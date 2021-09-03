@@ -77,6 +77,6 @@ x===y ? console.log(true) : console.log(false)
     
                                The End of Part Tow
 
-<br>
+<hr>
 
-<button name="button" onclick="https://jehadabuawwad.github.io/reading-notes/">Back to home</button>
+# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)
