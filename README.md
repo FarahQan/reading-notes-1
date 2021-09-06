@@ -68,3 +68,4 @@ ___
 | 5.  | [Putting it all together](https://jehadabuawwad.github.io/reading-notes/Code301/class-05)  |
 | 6.  | [NODE. JS](https://jehadabuawwad.github.io/reading-notes/Code301/class-06)  |
 | 7.  | [How I explained REST to my brother](https://jehadabuawwad.github.io/reading-notes/Code301/class-07)  |
+| 7.  | [How I explained REST to my brother](https://jehadabuawwad.github.io/reading-notes/Code301/class-08)  |
