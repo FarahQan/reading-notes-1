@@ -69,3 +69,5 @@ ___
 | 6.  | [NODE. JS](https://jehadabuawwad.github.io/reading-notes/Code301/class-06)  |
 | 7.  | [How I explained REST to my brother](https://jehadabuawwad.github.io/reading-notes/Code301/class-07)  |
 | 8.  | [Readings: APIs](https://jehadabuawwad.github.io/reading-notes/Code301/class-08)  |
+| 9.  | [FUNCTIONAL PROGRAMMING](https://jehadabuawwad.github.io/reading-notes/Code301/class-09)  |
+
