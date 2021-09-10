@@ -1,4 +1,5 @@
-## 1.
+## 1. NOSQL vs SQL (READ)
+
 
         in this part we will discuss the following points
 
@@ -54,7 +55,7 @@ In most typical situations, SQL databases are vertically scalable. You can manag
     
             The End of Part One
 
-## 2.
+## 2. NOSQL vs SQL (Vedio)
 
         in this part we will discuss the following points
 
