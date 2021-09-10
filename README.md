@@ -71,5 +71,6 @@ ___
 | 8.  | [Readings: APIs](https://jehadabuawwad.github.io/reading-notes/Code301/class-08)  |
 | 9.  | [FUNCTIONAL PROGRAMMING](https://jehadabuawwad.github.io/reading-notes/Code301/class-09)  |
 | 10.  | [ In memory storage](https://jehadabuawwad.github.io/reading-notes/Code301/class-10)  |
+| 11.  | [ Mongo and Mongoose](https://jehadabuawwad.github.io/reading-notes/Code301/class-11)  |
 
 
