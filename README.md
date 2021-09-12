@@ -1,9 +1,6 @@
-
 <p align="center">
   <img width="600" height="300" src="https://jehadabuawwad.github.io/reading-notes/images/LOGO.png">
 </p>
-
-
 
 Hello , This is Jehad Abu Awwad Greeting you and you are now in the heaven of coding and web development  
 
@@ -72,5 +69,4 @@ ___
 | 9.  | [FUNCTIONAL PROGRAMMING](https://jehadabuawwad.github.io/reading-notes/Code301/class-09)  |
 | 10.  | [ In memory storage](https://jehadabuawwad.github.io/reading-notes/Code301/class-10)  |
 | 11.  | [ Mongo and Mongoose](https://jehadabuawwad.github.io/reading-notes/Code301/class-11)  |
-
-
+| 12.  | [ CRUD](https://jehadabuawwad.github.io/reading-notes/Code301/class-12)  |
