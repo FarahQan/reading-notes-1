@@ -71,3 +71,4 @@ ___
 | 11.  | [ Mongo and Mongoose](https://jehadabuawwad.github.io/reading-notes/Code301/class-11)  |
 | 12.  | [ CRUD](https://jehadabuawwad.github.io/reading-notes/Code301/class-12)  |
 | 13.  | [Diversity & Inclusion in the Tech Industry](https://jehadabuawwad.github.io/reading-notes/Code301/class-13)  |
+| 14.  | [Authentication](https://jehadabuawwad.github.io/reading-notes/Code301/class-14)  |
