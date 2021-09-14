@@ -1,3 +1,5 @@
+<title>Jehad Abu Awwad Reading Notes</title>
+
 <p align="center">
   <img width="600" height="300" src="https://jehadabuawwad.github.io/reading-notes/images/LOGO.png">
 </p>
