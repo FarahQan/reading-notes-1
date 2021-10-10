@@ -80,4 +80,4 @@ ___
 | Class Number       | Class Title     | 
 | :----------------  | :---------------- | 
 | 1.  | [Topic](https://jehadabuawwad.github.io/reading-notes/Code401/class-01)  |
-| 1.  | [Testing and Modules](https://jehadabuawwad.github.io/reading-notes/Code401/class-02)  |
+| 2.  | [Testing and Modules](https://jehadabuawwad.github.io/reading-notes/Code401/class-02)  |
