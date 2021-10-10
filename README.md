@@ -75,10 +75,9 @@ ___
 | 13.  | [Diversity & Inclusion in the Tech Industry](https://jehadabuawwad.github.io/reading-notes/Code301/class-13)  |
 | 14.  | [Authentication](https://jehadabuawwad.github.io/reading-notes/Code301/class-14)  |
 
-
 ## **Code 401 - Advanced Software Development**
 
 | Class Number       | Class Title     | 
 | :----------------  | :---------------- | 
 | 1.  | [Topic](https://jehadabuawwad.github.io/reading-notes/Code401/class-01)  |
-
+| 1.  | [Testing and Modules](https://jehadabuawwad.github.io/reading-notes/Code401/class-02)  |
