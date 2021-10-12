@@ -82,3 +82,4 @@ ___
 | 1.  | [Topic](https://jehadabuawwad.github.io/reading-notes/Code401/class-01)  |
 | 2.  | [Testing and Modules](https://jehadabuawwad.github.io/reading-notes/Code401/class-02)  |
 | 3.  | [FileIO & Exceptions](https://jehadabuawwad.github.io/reading-notes/Code401/class-03)  |
+| 4.  | [Topic](https://jehadabuawwad.github.io/reading-notes/Code401/class-04)  |
