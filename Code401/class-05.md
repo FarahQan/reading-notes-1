@@ -1,4 +1,4 @@
-## 1.
+## 1. Big O: Analysis of Algorithm Efficiency 
 
         in this part we will discuss the following points
 
@@ -21,7 +21,7 @@ Running Time: The amount of time required for an algorithm to complete.
     
                                The End of Part One
 
-## 2.
+## 2. Linked Lists
 
         in this part we will discuss the following points
 
@@ -56,22 +56,5 @@ There are two types of Linked List - Singly and Doubly. We will be implementing 
 
     
                                The End of Part Tow
-
-## 3.
-
-        in this part we will discuss the following points
-
-*
-
-<br/>
-
-                           The beginning of Part Three
-
-### 3.1:
-
-<br/>
-
-    
-                               The End of Part Three
 
 # [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)
