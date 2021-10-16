@@ -84,3 +84,5 @@ ___
 | 3.  | [FileIO & Exceptions](https://jehadabuawwad.github.io/reading-notes/Code401/class-03)  |
 | 4.  | [Topic](https://jehadabuawwad.github.io/reading-notes/Code401/class-04)  |
 | 5.  | [Linked Lists](https://jehadabuawwad.github.io/reading-notes/Code401/class-05)  |
+| 6.  | [Game of Greed 1](https://jehadabuawwad.github.io/reading-notes/Code401/class-06)  |
+
