@@ -86,5 +86,7 @@ ___
 | 5.  | [Linked Lists](https://jehadabuawwad.github.io/reading-notes/Code401/class-05)  |
 | 6.  | [Game of Greed 1](https://jehadabuawwad.github.io/reading-notes/Code401/class-06)  |
 | 7.  | [Game of Greed 2](https://jehadabuawwad.github.io/reading-notes/Code401/class-07)  |
+| 8.  | [Game of Greed 3](https://jehadabuawwad.github.io/reading-notes/Code401/class-08)  |
+
 
 
