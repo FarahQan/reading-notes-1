@@ -88,6 +88,8 @@ ___
 | 7.  | [Game of Greed 2](https://jehadabuawwad.github.io/reading-notes/Code401/class-07)  |
 | 8.  | [Game of Greed 3](https://jehadabuawwad.github.io/reading-notes/Code401/class-08)  |
 | 9.  | [Game of Greed 4](https://jehadabuawwad.github.io/reading-notes/Code401/class-09)  |
+| 10.  | [Stacks and Queues](https://jehadabuawwad.github.io/reading-notes/Code401/class-10)  |
+
 
 
 
