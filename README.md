@@ -92,6 +92,7 @@ ___
 | 11.  | [Data Analysis](https://jehadabuawwad.github.io/reading-notes/Code401/class-11)  |
 | 12.  | [Topic](https://jehadabuawwad.github.io/reading-notes/Code401/class-12)  |
 | 13.  | [Linear Regressions](https://jehadabuawwad.github.io/reading-notes/Code401/class-13)  |
+| 14.  | [Matplotlib Tutorial](https://jehadabuawwad.github.io/reading-notes/Code401/class-14)  |
 
 
 
