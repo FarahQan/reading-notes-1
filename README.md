@@ -94,6 +94,7 @@ ___
 | 13.  | [Linear Regressions](https://jehadabuawwad.github.io/reading-notes/Code401/class-13)  |
 | 14.  | [Matplotlib Tutorial](https://jehadabuawwad.github.io/reading-notes/Code401/class-14)  |
 | 15.  | [Trees](https://jehadabuawwad.github.io/reading-notes/Code401/class-15)  |
+| 16.  | [Machine Learning Intro](https://jehadabuawwad.github.io/reading-notes/Code401/class-16)  |
 
 
 
