@@ -96,6 +96,8 @@ ___
 | 15.  | [Trees](https://jehadabuawwad.github.io/reading-notes/Code401/class-15)  |
 | 16.  | [Machine Learning Intro](https://jehadabuawwad.github.io/reading-notes/Code401/class-16)  |
 | 17.  | [Web Scraping](https://jehadabuawwad.github.io/reading-notes/Code401/class-17)  |
+| 18.  | [Cryptography](https://jehadabuawwad.github.io/reading-notes/Code401/class-18)  |
+
 
 
 
