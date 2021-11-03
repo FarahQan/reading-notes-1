@@ -63,26 +63,6 @@ print('AFTER:', glob.glob('shutil_copyfile.*'))
 
 <br/>
 
-    
-                               The End of Part Tow
-
-## 3.
-
-        in this part we will discuss the following points
-
-*
-
-<br/>
-
-                           The beginning of Part Three
-
-### 3.1:
-
-<br/>
-
-    
-                               The End of Part Three
-
 # [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)
 
 `
