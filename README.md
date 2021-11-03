@@ -97,7 +97,7 @@ ___
 | 16.  | [Machine Learning Intro](https://jehadabuawwad.github.io/reading-notes/Code401/class-16)  |
 | 17.  | [Web Scraping](https://jehadabuawwad.github.io/reading-notes/Code401/class-17)  |
 | 18.  | [Cryptography](https://jehadabuawwad.github.io/reading-notes/Code401/class-18)  |
-| 19.  | [Cryptography](https://jehadabuawwad.github.io/reading-notes/Code401/class-19)  |
+| 19.  | [Automation](https://jehadabuawwad.github.io/reading-notes/Code401/class-19)  |
 
 
 
