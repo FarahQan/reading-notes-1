@@ -98,7 +98,7 @@ ___
 | 17.  | [Web Scraping](https://jehadabuawwad.github.io/reading-notes/Code401/class-17)  |
 | 18.  | [Cryptography](https://jehadabuawwad.github.io/reading-notes/Code401/class-18)  |
 | 19.  | [Automation](https://jehadabuawwad.github.io/reading-notes/Code401/class-19)  |
-| 20.  | [Intro to Django](https://jehadabuawwad.github.io/reading-notes/Code401/class-20)  |
+| 20.  | [Intro to Django](https://jehadabuawwad.github.io/reading-notes/Code401/class-26)  |
 
 
 
