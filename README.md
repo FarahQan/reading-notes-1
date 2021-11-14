@@ -99,6 +99,8 @@ ___
 | 18.  | [Cryptography](https://jehadabuawwad.github.io/reading-notes/Code401/class-18)  |
 | 19.  | [Automation](https://jehadabuawwad.github.io/reading-notes/Code401/class-19)  |
 | 20.  | [Intro to Django](https://jehadabuawwad.github.io/reading-notes/Code401/class-26)  |
+| 21.  | [Django Models](https://jehadabuawwad.github.io/reading-notes/Code401/class-27)  |
+
 
 
 
