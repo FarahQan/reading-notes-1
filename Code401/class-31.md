@@ -5,9 +5,9 @@
 * What is Docker?
 * What are the virtual machines ?
 * Give a real example of virtualization example ?
-*
-*
-*
+* Why do we use virtual environemnt ?
+* What is the different between images and containers ?
+
 
 <br/>
 
@@ -45,16 +45,12 @@ An image is a snapshot in time of what a project contains. A container is a runn
     
                                The End of Part One
 
-## 2.
+## 2. Django for APIs
 
         in this part we will discuss the following points
 
-*
-*
-*
-*
-*
-*
+* What is the similariteies between traditional Django and Django REST framework ?
+
 
 <br/>
 
