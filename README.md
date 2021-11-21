@@ -103,6 +103,7 @@ ___
 | 22.  | [Django CRUD and Forms](https://jehadabuawwad.github.io/reading-notes/Code401/class-28)  |
 | 23.  | [Django Custom User](https://jehadabuawwad.github.io/reading-notes/Code401/class-29)  |
 | 24.  | [Hash Tables](https://jehadabuawwad.github.io/reading-notes/Code401/class-30)  |
+| 25.  | [Django REST Framework & Docker](https://jehadabuawwad.github.io/reading-notes/Code401/class-31)  |
 
 
 
