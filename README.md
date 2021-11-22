@@ -105,6 +105,8 @@ ___
 | 24.  | [Hash Tables](https://jehadabuawwad.github.io/reading-notes/Code401/class-30)  |
 | 25.  | [Django REST Framework & Docker](https://jehadabuawwad.github.io/reading-notes/Code401/class-31)  |
 | 26.  | [Permissions & Postgresql](https://jehadabuawwad.github.io/reading-notes/Code401/class-32)  |
+| 27.  | [ JSON Web Tokens](https://jehadabuawwad.github.io/reading-notes/Code401/class-33)  |
+
 
 
 
