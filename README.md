@@ -107,6 +107,8 @@ ___
 | 26.  | [Permissions & Postgresql](https://jehadabuawwad.github.io/reading-notes/Code401/class-32)  |
 | 27.  | [ JSON Web Tokens](https://jehadabuawwad.github.io/reading-notes/Code401/class-33)  |
 | 28.  | [API Deployment](https://jehadabuawwad.github.io/reading-notes/Code401/class-34)  |
+| 29.  | [API Deployment](https://jehadabuawwad.github.io/reading-notes/Code401/class-35)  |
+
 
 
 
