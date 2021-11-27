@@ -31,5 +31,5 @@ Restate the question for them and seek affirmation. You might actually be surpri
 <br/>
 
                                The End of Part One
-# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)
 
+# [BACK TO HOME](https://jehadabuawwad.github.io/reading-notes)
