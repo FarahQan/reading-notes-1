@@ -109,7 +109,8 @@ ___
 | 28.  | [API Deployment](https://jehadabuawwad.github.io/reading-notes/Code401/class-34)  |
 | 29.  | [Graphs](https://jehadabuawwad.github.io/reading-notes/Code401/class-35)  |
 | 30.  | [DSA Review](https://jehadabuawwad.github.io/reading-notes/Code401/class-36)  |
-| 30.  | [React 1](https://jehadabuawwad.github.io/reading-notes/Code401/class-37)  |
+| 31.  | [React 1](https://jehadabuawwad.github.io/reading-notes/Code401/class-37)  |
+| 32.  | [React 2](https://jehadabuawwad.github.io/reading-notes/Code401/class-38)  |
 
 
 
