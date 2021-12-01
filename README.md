@@ -111,6 +111,7 @@ ___
 | 30.  | [DSA Review](https://jehadabuawwad.github.io/reading-notes/Code401/class-36)  |
 | 31.  | [React 1](https://jehadabuawwad.github.io/reading-notes/Code401/class-37)  |
 | 32.  | [React 2](https://jehadabuawwad.github.io/reading-notes/Code401/class-38)  |
+| 33.  | [React 2](https://jehadabuawwad.github.io/reading-notes/Code401/class-39)  |
 
 
 
