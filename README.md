@@ -114,6 +114,7 @@ ___
 | 33.  | [React 3](https://jehadabuawwad.github.io/reading-notes/Code401/class-39)  |
 | 34.  | [React 4](https://jehadabuawwad.github.io/reading-notes/Code401/class-40)  |
 | 35.  | [Pythonisms](https://jehadabuawwad.github.io/reading-notes/Code401/class-41)  |
+| 36.  | [Ethics](https://jehadabuawwad.github.io/reading-notes/Code401/class-42)  |
 
 
 
